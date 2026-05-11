@@ -1,1 +1,1 @@
-console.log("【测试】远程XS-JS 加载成功");
+document.title = "XS 执行成功 - 测试验证";
